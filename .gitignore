@@ -1,0 +1,12 @@
+*
+!data.ipynb
+!normalize.ipynb
+!models/
+!out/
+!phrase_models/
+!conllu_spacy.txt
+!corpus_log.txt
+!requirements_pip.txt
+!requirements.txt
+!README.md
+!docs/
