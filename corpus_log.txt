@@ -1,0 +1,19 @@
+SpacyCorpus log
+Processing file: PomnLw1_TEI_final.conllu
+Finished processing file: PomnLw1_TEI_final.conllu, 36434 tokens loaded.
+
+Processing file: KsgHenr4_TEI_final.conllu
+Finished processing file: KsgHenr4_TEI_final.conllu, 531 tokens loaded.
+
+Processing file: AKapSąd1Pozn_TEI_final.conllu
+Finished processing file: AKapSąd1Pozn_TEI_final.conllu, 91105 tokens loaded.
+
+Processing file: StPPP11_TEI_final.conllu
+Error parsing file: StPPP11_TEI_final.conllu - According to the CoNLL-U Format, fields cannot be empty. See https://universaldependencies.org/format.html
+Processing file: NIC.POL.Ant_TEI_final.conllu
+Finished processing file: NIC.POL.Ant_TEI_final.conllu, 3376 tokens loaded.
+
+Processing file: KADLUB_TEI_final.conllu
+Finished processing file: KADLUB_TEI_final.conllu, 50136 tokens loaded.
+
+Processing file: AGZ4_TEI_final.conllu
