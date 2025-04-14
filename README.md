@@ -3,6 +3,6 @@ The repository contains code for the computational study of medieval Latin *text
 
 The code proposes a number of comparative studies relying on clustering texts according to their orthography, syntax, formula reuse, etc.
 
-The [docs] folder contains presentations and texts where the research was presented:
-- [docs/pres_NOWAK_Poznan24.pdf]: October 2024, Poznań: Latin Pragmatic Literacy. Prolegomena to corpus study.
+The [docs](file:///./docs) folder contains presentations and texts where the research was presented:
+- [docs/pres_NOWAK_Poznan24.pdf](file:///./docs/pres_NOWAK_Poznan24.pdf): October 2024, Poznań: Latin Pragmatic Literacy. Prolegomena to corpus study.
 
